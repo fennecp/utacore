@@ -1,7 +1,3 @@
-# utacore
-
-An UTAU voicebank installer gui inspired by the VOCALOID voicebank installers!! (but with cool extra features!!!)
-
 # UTACORE
 
 UTACORE is a Windows GUI tool for building reusable `.exe` installers for UTAU voicebanks.
