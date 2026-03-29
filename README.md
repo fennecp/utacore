@@ -1,6 +1,10 @@
 README updated to UTACORE v2.0 features on 3/26/2026
 # UTACORE
 
+## REPORT BUGS HERE
+VOCACORD SERVER: https://discord.gg/QuqQSJhqUe
+
+## ABOUT
 UTACORE is a Windows desktop builder for reusable UTAU voicebank installer `.exe` files inspired by the VOCALOID voicebank installers.
 
 It lets you package a voicebank archive, artwork, metadata, optional vocal modes, optional video screens, optional terms of service, and localized installer UI into a shareable Windows installer.
